@@ -1,4 +1,4 @@
-# Assesses The Strength of Passwords (ATSoP)
+# Strength of Passwords (SoP)
 
 ## Description:
 
